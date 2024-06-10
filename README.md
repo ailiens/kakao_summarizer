@@ -1,4 +1,3 @@
-# kakao_summarizer
 ## 📃카카오톡 대화 요약 머신
 <hr>
 사용 목적: 읽은 대화 중 재확인 해야할 내용이 많이 있을때
@@ -23,4 +22,3 @@ PWD = 'your_gmail_app_password'
 
 **views**
 1. email = 'FROM "your_email_address"'
-
