@@ -17,8 +17,7 @@ max_token = 500
 
 email_add = os.getenv("EMAIL")
 pwd = os.getenv("PWD")
-
-# email = 'FROM "your_email_address"'
+email = 'FROM "your_email_address"'
 
 def home(request):
     return render(request, 'main/home.html')
