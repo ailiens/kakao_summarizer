@@ -1,12 +1,12 @@
 ## 📃카카오톡 대화 요약 머신
 <hr>
-사용 목적: 읽은 대화 중 재확인 해야할 내용이 많이 있을때
+### 사용 목적: 읽은 대화 중 재확인 해야할 내용이 많이 있을때
 
 ![img.png](assets%2Fimg.png)
 ![img_3.png](assets%2Fimg_3.png)
 ![img_4.png](assets%2Fimg_4.png)
 ![img_1.png](assets%2Fimg_1.png)
-![img.png](img.png)
+![img_2.png](assets%2Fimg_2.png)
 **Requirement**
 1. Openai api key <br>
 2. gmail <br>
