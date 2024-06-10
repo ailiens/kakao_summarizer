@@ -7,6 +7,7 @@
 ![img_4.png](assets%2Fimg_4.png)
 ![img_1.png](assets%2Fimg_1.png)
 ![img_2.png](assets%2Fimg_2.png)
+
 **Requirement**
 1. Openai api key <br>
 2. gmail <br>
